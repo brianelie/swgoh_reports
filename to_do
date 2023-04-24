@@ -1,0 +1,21 @@
+SWGOH Report Generator App:
+    ✔ build finish report function in TW, Roster, tickets @done (12/23/2021, 7:53:54 PM)
+    ✔ Add GUI labels/messages @done (12/26/2021, 8:14:06 PM)
+    ✔ Add error checking @done (12/26/2021, 8:13:56 PM)
+        ✔ Check if assets and data folders exist. if not create them @done (12/26/2021, 7:01:27 PM)
+        ✔ Check that .csv files are the right ones @done (12/26/2021, 7:36:15 PM)
+        ✔ Check that guild name is not blank in create a new guild @done (12/26/2021, 7:17:07 PM)
+        ✔ Check that guild_select is not blank @done (12/26/2021, 7:17:08 PM)
+        ✔ Check that all uploaded images (TW/TB) exist @done (12/26/2021, 8:13:48 PM)
+        ✔ Check that output folder exists @done (12/26/2021, 8:13:49 PM)
+        ✔ Check that all .csv files are not blank (TW/TB/Tickets/Roster) @done (12/26/2021, 8:13:51 PM)
+        ✔ TB @done (12/26/2021, 8:13:54 PM)
+            ✔ Check that shards, phase and year are a valid number @done (12/26/2021, 8:13:53 PM)
+    ✔ Add guild customization (name/logo saved. dropdown menu on reentry) @done (12/26/2021, 12:44:04 PM)
+    ☐ Refactor/clean up code
+    ☐ Add comments
+    ☐ Improve aethetics/design
+    ☐ Build readme file
+    ☐ Create required packages list
+    ☐ Figure out how to use as desktop app
+    ☐ put on github
